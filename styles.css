@@ -17,32 +17,17 @@ body {
     text-align: center;
     box-shadow: 0px 2px 10px rgb(215, 215, 215);
     cursor: pointer;
-    transition: 0.3s;
-}
-.card:hover {
-    background-color: rgb(71, 35, 110);
-}
-.card:hover h3 {
-    color: rgb(215, 215, 215);
-}
-.card:hover p {
-    color:rgb(215, 215, 215);
 }
 .card img {
     border-radius: 10px;
-    transition: 0.3s;
 }
 .card h3 {
     color: hsl(218, 44%, 22%);
     margin-bottom: 0px;
-    transition: 0.1s;
-    transition-delay: 0.2s;
 }
 .card p {
     color: hsl(220, 15%, 55%);
     font-size: 0.9rem;
-    transition: 0.1s;
-    transition-delay: 0.25s;
 }
 .attribution {
     margin-top: 20px;
